@@ -13,7 +13,7 @@
 
 - 📫 Feel free to send me on **mohamed.mansour0117@gmail.com**
 
-- 📄 Free Palestine [This account supports the Palestinian cause](This account supports the Palestinian cause)
+- 🇵🇸 Free Palestine [This account supports the Palestinian cause]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

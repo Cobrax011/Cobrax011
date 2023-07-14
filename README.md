@@ -1,6 +1,17 @@
 # 💫 About Me:
- I’m currently learning Digital Forenscis Investigation<br> All of my projects are available at https://github.com/Cobrax011/Cobrax011<br>I regularly write articles on https://medium.com/@fahdmansour77<br>Ask me about Redteaming & Network & Linux and Digital Forenscis Investigation<br>Feel free to send me on mohamed.mansour0117@gmail.com<br>palestinian_territories Free Palestine [This account supports the Palestinian cause]
 
+
+- I’m currently learning Digital Forenscis Investigation
+
+- All of my projects are available at https://github.com/Cobrax011/Cobrax011
+
+- I regularly write articles on https://medium.com/@fahdmansour77
+
+- speech_balloon Ask me about Redteaming & Network & Linux and Digital Forenscis Investigation
+
+- free to send me on mohamed.mansour0117@gmail.com
+    
+- Free Palestine [This account supports the Palestinian cause]
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cobra0x011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-mansour-27b20a214) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@fahdmansour77) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/g0dofn0ne) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/fahd0x011) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cobra0x011) 

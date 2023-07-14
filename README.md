@@ -1,36 +1,34 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mansour</h1>
-<h3 align="center">A Cyber security Researcher from Egypt</h3>
+# 💫 About Me:
+ I’m currently learning Digital Forenscis Investigation<br> All of my projects are available at https://github.com/Cobrax011/Cobrax011<br>I regularly write articles on https://medium.com/@fahdmansour77<br>Ask me about Redteaming & Network & Linux and Digital Forenscis Investigation<br>Feel free to send me on mohamed.mansour0117@gmail.com<br>palestinian_territories Free Palestine [This account supports the Palestinian cause]
 
-<p align="left"> <a href="https://twitter.com/cobra0x011" target="blank"><img src="https://img.shields.io/twitter/follow/cobra0x011?logo=twitter&style=for-the-badge" alt="cobra0x011" /></a> </p>
 
-- 🌱 I’m currently learning **Digital Forenscis Investigation**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cobra0x011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-mansour-27b20a214) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@fahdmansour77) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/g0dofn0ne) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/fahd0x011) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cobra0x011) 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Cobrax011/Cobrax011](https://github.com/Cobrax011/Cobrax011)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cobrax011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cobrax011&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cobrax011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📝 I regularly write articles on [https://medium.com/@fahdmansour77](https://medium.com/@fahdmansour77)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Cobrax011&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 💬 Ask me about **Redteaming & Network & Linux and Digital Forenscis Investigation**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📫 Feel free to send me on **mohamed.mansour0117@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Cobrax011&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🇵🇸 Free Palestine [This account supports the Palestinian cause]
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
+[![](https://visitcount.itsvg.in/api?id=Cobrax011&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cobra0x011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cobra0x011" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-mansour-27b20a214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mansour-27b20a214" height="30" width="40" /></a>
-<a href="https://medium.com/@fahdmansour77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fahdmansour77" height="30" width="40" /></a>
-<a href="https://discord.gg/cobra0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cobra0x" height="30" width="40" /></a>
-</p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/cobra0x011                ) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cobra0x011&show_icons=true&locale=en&layout=compact" alt="Cobra0x011" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cobra0x011&theme=dark" alt="Cobra0x011" /></p>
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
